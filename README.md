@@ -1,1 +1,82 @@
 # russian-genz
+
+- Andrey Anatoliyevich Seritsky - Major General - Chief of Staff, 36th Combined Arms Army
+- Andrey Averyanov - Major General - Head of GRU's Department of Special Tasks - Killed 19 December 2025
+- Andrey Borisovich Kolesnikov - Major General - Commander, 29th Combined Arms Army
+- Andrey Gennadievich Demin - Lieutenant General - Deputy Commander, Aerospace Forces: Commander of Air and Missile Defense Forces
+- Andrey Nikolayevich Mordichev - Lieutenant General - Commander, 8th Combined Arms Army
+- Andrey Nikolayevich Paly - Captain of the First Rank - Deputy Commander, Black Sea Fleet
+- Andrey Sergeevich Ivanaev - Lieutenant General - Commander, 20th Guards Combined Arms Army
+- Andrey Simonov - Major General - Chief of Electronic Warfare Troops, 2nd Guards Combined Arms Army - Killed 30 April 2022
+- Andrey Sukhovetsky - Major General - Deputy Commander, 41st Combined Arms Army - Killed 28 February 2022
+- Andrey Vladimirovich Kolotovkin - Lieutenant General - Commander, 2nd Guards Combined Arms Army
+- Andrey Vyacheslavovich Yudin - Colonel General - Deputy Commander, Aerospace Forces
+- Andrey Yuryevich Pyataev - Major General - Chief of Staff, 20th Guards Combined Arms Army
+- Arkady Marzoev - Major General - Commander, 22nd Army Corps
+- Aleksandr Alexandrovich Zhuravlyov - Colonel General - Commander, Western Military District
+- Aleksandr Anatolyevich Matovnikov - Lieutenant General - Deputy Commander-in-Chief, Ground Forces
+- Aleksandr Pavlovich Lapin - Colonel General - Commander, Central Military District
+- Aleksandr Semyonovich Sanchik - Lieutenant General - Commander, 35th Combined Arms Army
+- Aleksandr Valentinovich Golovko - Colonel General - Deputy Commander, Aerospace Forces: Commander of Space Forces
+- Aleksandr Vladimirovich Dvornikov - Army General - Commander, Southern Military District
+- Aleksandr Yuryevich Chaiko - Colonel General - Commander, Eastern Military District
+- Aleksei Vladimirovich Podilov - Major General - Commander, 5th Combined Arms Army
+- Alexei Komkov - Major General - Head of FSB's Fifth Service - Killed 2 July 2025
+- Alexey Vladimirovich Zavizion - Lieutenant General - Chief of Staff, Western Military District
+- Alexey Yuryevich Avdeev - Lieutenant General - Deputy Commander, Southern Military District
+- Alexander Tatarenko - Lieutenant General - Commander, Belbek Air Base - Killed 31 January 2024
+- Anatoly Georgievich Kontsevoi - Major General - Deputy Commander, Airborne Forces
+- Andrei Nikolaevich Serdyukov - Colonel General - Commander, Airborne Forces
+- Apti Alaudinov - Major General - Commander, Akhmat Special Forces
+- Denis Valentinovich Berezovsky - Vice Admiral - Deputy Commander, Pacific Fleet
+- Dmitry Valerievich Glushenkov - Lieutenant General - Commander, 68th Army Corps
+- Evgeni Valerivich Nikiforov - Lieutenant General - Chief of Staff, Eastern Military District
+- Evgeny Alekseevich Ustinov - Colonel General - Chief of Staff, Airborne Forces
+- Evgeny Valentinovich Poplavsky - Lieutenant General - Deputy Commander, Central Military District
+- Fanil Sarvarov - Lieutenant General - Head, Operational Training Directorate, General Staff - Killed 22 December 2025
+- Igor Kirillov - Lieutenant General - Chief, NBC Protection Troops - Killed 17 December 2024
+- Igor Kostyukov - Admiral - Head, GRU
+- Igor Vladimirovich Osipov - Admiral - Commander, Black Sea Fleet
+- Ildar Akhmerov - Vice-Admiral - Chief of Staff, Black Sea Fleet - Killed 2 July 2025
+- Ivan Mikhailovich Shkanov - Colonel - Chief of Staff, 1st Guards Tank Army
+- Kanamat Botashev - Major General (retired) - Wagner Group - Killed 22 May 2022
+- Konstantin Smeshko - Major General - Deputy Commander, Engineer Troops - Killed 26 December 2024
+- Mikhail Stepanovich Zusko - Lieutenant General - Commander, 58th Combined Arms Army
+- Mikhail Yakovlevich Nosulev - Lieutenant General - Deputy Commander, Eastern Military District
+- Mikhail Yuryevich Teplinskiy - Colonel General - Chief of Staff, Central Military District
+- Mikhail Gudkov - Major General - Commander, 155 Guards Naval Infantry Brigade - Killed 2 July 2025
+- Nikolai Vasilyevich Bogdanovsky - Colonel General - First Deputy Chief, General Staff
+- Oleg Leonidovich Salyukov - Army General - Former Commander-in-Chief, Ground Forces (now Deputy Secretary, Security Council)
+- Oleg Tsokov - Lieutenant General - Deputy Commander, Southern Military District - Killed 11 July 2023
+- Pavel Klimenko - Major General - Commander, 5th Separate Motor Rifle Brigade - Killed 6 November 2024
+- Roman Kutuzov - Lieutenant General - Commander, 1st Army Corps, Donetsk - Killed 5 June 2022
+- Rustam Sakhibnazarovich Minnekaev - Major General - Deputy Commander, Central Military District
+- Sergei Alexandrovich Kisel - Lieutenant General - Commander, 1st Guards Tank Army
+- Sergei Borisovich Ryzhkov - Lieutenant General - Commander, 41st Combined Arms Army
+- Sergei Fyodorovich Rudskoy - Colonel General - Chief, Main Operational Directorate, General Staff
+- Sergei Grigoryevich Rekish - Vice Admiral - Chief of Staff, Pacific Fleet
+- Sergei Ilyich Nyrkov - Major General - Chief of Staff, 35th Combined Arms Army
+- Sergei Iosifovich Avakyants - Admiral - Commander, Pacific Fleet
+- Sergei Mihailovich Pinchuk - Vice Admiral - Chief of Staff, Black Sea Fleet
+- Sergei Stanislavovich Eliseev - Vice Admiral - Deputy Commander, Baltic Fleet
+- Sergei Vladimirovich Dronov - Lieutenant General - Deputy Commander, Aerospace Forces: Commander of Air Force
+- Sergei Vladimirovich Lipilin - Vice Admiral - Chief of Staff, Baltic Fleet
+- Sergei Vladimirovich Surovikin - Army General - Commander, Aerospace Forces
+- Sergei Yurevich Kuzovlev - Colonel General - Chief of Staff, Southern Military District
+- Sergey Goryachev - Major General - Chief of Staff, 35th Combined Arms Army - Killed 12 June 2023
+- Valery Nikolayevich Solodchuk - Lieutenant General - Commander, 36th Combined Arms Army
+- Valery Plohotnyuk - Major General - Chief of Staff, 49th Combined Arms Army
+- Valery Vasilyevich Gerasimov - Army General - Chief, General Staff
+- Vasily Petrovich Tonkoshkurov - Colonel General - First Deputy Commander-in-Chief, Ground Forces
+- Victor Musavirovich Afzalov - Lieutenant General - Chief of Staff, Aerospace Forces
+- Victor Nikolaevich Liina - Vice Admiral - Commander, Baltic Fleet
+- Vitaly Petrovich Gerasimov - Major General - Chief of Staff, 41st Combined Arms Army
+- Vladislav Nikolayevich Yershov - Lieutenant General - Commander, 6th Combined Arms Army
+- Vladimir Anatoliyevich Belyavsky - Major General - Chief of Staff, 68th Army Corps
+- Vladimir Anatoliyevich Kochetkov - Lieutenant General - Deputy Commander, Western Military District
+- Vladimir Frolov - Major General - Deputy Commander, 8th Guards Combined Arms Army - Killed 16 April 2022
+- Vladimir Petrovich Frolov - Major General - Deputy Commander, 8th Combined Arms Army
+- Vladimir Zavadsky - Major General - Deputy Commander, 14th Army Corps - Killed 28 November 2023
+- Vyacheslav Nikolaevich Gurov - Major General - Chief of Staff, 58th Combined Arms Army
+- Yakov Vladimirovich Rezantsev - Lieutenant General - Commander, 49th Combined Arms Army
+- Yaroslav Moskalik - Lieutenant General - Deputy Chief, Main Operations Directorate, General Staff - Killed 25 April 2025
